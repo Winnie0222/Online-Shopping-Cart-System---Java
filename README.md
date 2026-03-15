@@ -1,8 +1,11 @@
 Project Overview
+
 Urban Living is a console-based online furniture store built using Java and OOP principles. The system allows customers to browse, select, and purchase bedding products conveniently, with features such as a shopping cart, wishlist, voucher application, and secure payment handling.
 This project was developed as a team assignment to demonstrate the use of Object-Oriented Programming concepts such as encapsulation, inheritance, polymorphism, and abstraction.
 ________________________________________
+
 Features
+
 User Management
 •	User registration and login with validation (minimum 8-character passwords).
 •	OTP-based recovery for forgotten username/password.
@@ -26,7 +29,9 @@ Checkout & Payment
 Order History
 •	View all past orders with details: items purchased, quantities, total cost, shipping, and payment method.
 ________________________________________
+
 Object-Oriented Design
+
 •	Encapsulation:
 Classes such as Category, Item, Store, User, and PaymentHandler encapsulate data with private fields and public getters/setters.
 •	Inheritance:
